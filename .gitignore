@@ -1,1 +1,4 @@
-.venv
+.venv/
+.venv/Lib
+# Directorios generados por la compilación de Python
+__pycache__/
